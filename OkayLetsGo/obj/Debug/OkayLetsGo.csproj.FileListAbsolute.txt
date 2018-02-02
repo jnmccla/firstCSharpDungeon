@@ -1,0 +1,12 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\BabysFirstDungeon\OkayLetsGo\bin\Debug\OkayLetsGo.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\BabysFirstDungeon\OkayLetsGo\bin\Debug\OkayLetsGo.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\BabysFirstDungeon\OkayLetsGo\bin\Debug\OkayLetsGo.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\BabysFirstDungeon\OkayLetsGo\bin\Debug\DungeonLibrary.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\BabysFirstDungeon\OkayLetsGo\bin\Debug\DungeonMonsters.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\BabysFirstDungeon\OkayLetsGo\bin\Debug\DungeonLibrary.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\BabysFirstDungeon\OkayLetsGo\bin\Debug\DungeonMonsters.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\BabysFirstDungeon\OkayLetsGo\obj\Debug\OkayLetsGo.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\BabysFirstDungeon\OkayLetsGo\obj\Debug\Interop.WMPLib.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\BabysFirstDungeon\OkayLetsGo\obj\Debug\OkayLetsGo.csproj.ResolveComReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\BabysFirstDungeon\OkayLetsGo\obj\Debug\OkayLetsGo.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\BabysFirstDungeon\OkayLetsGo\obj\Debug\OkayLetsGo.pdb
